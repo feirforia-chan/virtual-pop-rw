@@ -7,3 +7,4 @@ Virtual Outpost Population is a mod that does three things:
 - Procedurally generates pawns from the virtual population as world pawns when there is a free spot in the town population.
 That way, you could theoretically and functionally have a town of a million people and your game would still run as if that town had ten people instead.
 ## Isn't that glorious?
+Yes. Yes, it is.
