@@ -1,0 +1,13 @@
+<Patch>
+
+  <!-- Ensure comps exists -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/WorldObjectDef[defName="Outpost_Town"]</xpath>
+    <value>
+      <comps>
+        <li Class="VirtualOutpostPopulation.VirtualPopulationCompProperties"/>
+      </comps>
+    </value>
+  </Operation>
+
+</Patch>
